@@ -1,5 +1,3 @@
-package q12108;
-
 import java.util.*;
 
 class Node {

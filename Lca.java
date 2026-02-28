@@ -1,5 +1,4 @@
 // 4.1.5
-// package q11943;
 
 import java.util.*;
 

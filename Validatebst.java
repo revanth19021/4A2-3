@@ -1,7 +1,6 @@
 
 //4.2.2
 
-// package q11803;
 
 import java.util.*;
 
@@ -11,7 +10,7 @@ class Node {
     Node(int d) { data = d; }
 }
 
-public class ValidateBST {
+public class Validatebst {
 
     // Build tree using level order
     static Node buildTree(int[] arr,int i){
