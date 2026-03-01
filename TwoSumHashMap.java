@@ -30,6 +30,6 @@ public class TwoSumHashMap {
 			}
 			h.put(nums[i],i);
 		}
-		return new int[] {};
+		return new int[]{};
 	}
 }
